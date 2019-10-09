@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-color: #c9c9c9;
+    background-color: #ffffff;
 
     
 }
@@ -22,5 +22,61 @@ font-size: 2rem;
     color: white;
 
 
+}
+.topnav {
+    background-color: rgb(19, 19, 19);
+    overflow: hidden;
+    font-family: Arial, 'Helvetica', sans-serif
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  h1 {
+    font-family: Arial, 'Helvetica', sans-serif;
+    text-align: center;
+    
+    
+  }
+
+  p {
+      font-family: Arial, 'Helvetica', sans-serif;
+      text-align: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .banner {
+    width: 100%;
+    height: auto;
+  }
+  ol {
+      font-family: Arial, 'Helvetica', sans-serif;
+      font-weight: bold
+      
+  }
+  ul {
+    font-family: Arial, 'Helvetica', sans-serif;
+    font-weight: bold
+    
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(19, 19, 19);
+    color: white;
+    text-align: center;
+}
+.lijst{
+    padding-bottom: 10px
 }
 
